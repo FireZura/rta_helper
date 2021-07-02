@@ -1,0 +1,10 @@
+splitScreen: {
+    display: 'flex';
+    flexDirection: 'row';
+},
+topPane: {
+    width: '50%',
+},
+bottomPane: {
+    width: '50%',
+}

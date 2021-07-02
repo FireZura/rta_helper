@@ -1,0 +1,1472 @@
+[
+  {
+    "Hero": "ARas",
+    "Interactions": [
+      {
+        "Against": "Arby",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 3,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Arby",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 5,
+        "Support": "Basar"
+      },
+      {
+        "Against": "BMH",
+        "Strength": -5,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": -5,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Basar",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 5,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 2,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "BMH",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": 5,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -5,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 0,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Cerise",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 3,
+        "Support": "RCarrot"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 5,
+        "Support": "Ftene"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 3,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Dilibet",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 0,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "FCC",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 0,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "FKluri",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "FTene",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 3,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "FTene",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 5,
+        "Support": "Cerise"
+      },
+      {
+        "Against": "FCC",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 2,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Kise",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 5,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 0,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Krau",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": -2,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Landy",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 2,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Ravi",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": -2,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "RCarrot",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 3,
+        "Support": "Cerise"
+      },
+      {
+        "Against": "FCC",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": -5,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 2,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "Ruele",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": -4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": -5,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "STene",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 1,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 4,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": -1,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "TML",
+        "Strength": 4,
+        "Support": "X"
+      }
+    ]
+  },
+  {
+    "Hero": "TML",
+    "Interactions": [
+      {
+        "Against": "ARas",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Arby",
+        "Strength": 5,
+        "Support": "X"
+      },
+      {
+        "Against": "Basar",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "BMH",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Cerise",
+        "Strength": -3,
+        "Support": "X"
+      },
+      {
+        "Against": "Dilibet",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FCC",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "FKluri",
+        "Strength": 3,
+        "Support": "X"
+      },
+      {
+        "Against": "Ftene",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Kise",
+        "Strength": 0,
+        "Support": "X"
+      },
+      {
+        "Against": "Krau",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "Landy",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ravi",
+        "Strength": 2,
+        "Support": "X"
+      },
+      {
+        "Against": "RCarrot",
+        "Strength": -2,
+        "Support": "X"
+      },
+      {
+        "Against": "Ruele",
+        "Strength": 5,
+        "Support": "X"
+      },
+      {
+        "Against": "STene",
+        "Strength": -4,
+        "Support": "X"
+      }
+    ]
+  }
+]
